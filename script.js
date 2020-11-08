@@ -47,7 +47,7 @@ resultsContainer.innerHTML = "<p>New paragraph</p>";
 
 resultsContainer.style.backgroundColor = "yellow";
 
-//Question 7
+//Question 7 ?
 function nameList(list) {
     for (let i = 0; i < nameList.length; i++)
         console.log(name);
@@ -55,10 +55,10 @@ function nameList(list) {
 
 nameList(cats);
 
-//Question 8
+//Question 8 ?
 function createCats() {
     for (let i = 0; i < cats.length; i++) {
-        console.log(createCats.length);
+        cats.innerHTML =
     }
 }
 
